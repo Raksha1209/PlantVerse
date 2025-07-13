@@ -187,5 +187,13 @@ Bioelectric signal → AI storytelling + music is inspired by **plant neurobiolo
 ---
 
 # snaps
-<img width="1893" height="824" alt="Screenshot 2025-07-12 213018" src="https://github.com/user-attachments/assets/cf27baf5-707f-4d6c-9c52-e80f93dd77af" />
+<img width="1380" height="762" alt="Screenshot 2025-07-12 213903" src="https://github.com/user-attachments/assets/7538e84c-d7c2-414b-945a-84af0d7470d2" />
+<img width="1783" height="571" alt="Screenshot 2025-07-12 213851" src="https://github.com/user-attachments/assets/8281c98f-21ba-434d-bf30-382b87843cd0" />
+<img width="1312" height="562" alt="Screenshot 2025-07-12 213837" src="https://github.com/user-attachments/assets/df8c4d4c-1e7c-45f2-810b-9070e381bab0" />
+<img width="940" height="649" alt="Screenshot 2025-07-12 213213" src="https://github.com/user-attachments/assets/046908d7-ccba-456d-abd9-c62a7f46e833" />
+<img width="627" height="357" alt="Screenshot 2025-07-12 213200" src="https://github.com/user-attachments/assets/5d1fb99b-ae2c-4a48-9403-d84b8dab0b16" />
+<img width="1880" height="824" alt="Screenshot 2025-07-12 213120" src="https://github.com/user-attachments/assets/b2081d69-01fb-4e65-87b9-d67931e74f13" />
+<img width="1893" height="764" alt="Screenshot 2025-07-12 213100" src="https://github.com/user-attachments/assets/58765af7-bf2b-4645-aa69-23e434e0919b" />
+<img width="1888" height="820" alt="Screenshot 2025-07-12 213039" src="https://github.com/user-attachments/assets/ee88c796-a583-487d-a6ba-f994b2fa6f79" />
+<img width="1893" height="824" alt="Screenshot 2025-07-12 213018" src="https://github.com/user-attachments/assets/479a415f-1123-4ca8-a1b3-50539ee8cf83" />
 
