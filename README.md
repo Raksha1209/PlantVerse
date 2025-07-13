@@ -186,6 +186,6 @@ Bioelectric signal → AI storytelling + music is inspired by **plant neurobiolo
 
 ---
 
-## 📜 License
+# snaps
+<img width="1893" height="824" alt="Screenshot 2025-07-12 213018" src="https://github.com/user-attachments/assets/cf27baf5-707f-4d6c-9c52-e80f93dd77af" />
 
-MIT © 2025 PlantVerse
